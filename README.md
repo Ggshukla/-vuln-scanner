@@ -1,3 +1,5 @@
+![Web Vulnerability Scanner](CyberProject1.png)
+
 # Web Application Vulnerability Scanner 
 
 A Python + Flask based web vulnerability scanner that detects **XSS** and **SQL Injection** vulnerabilities in web applications by crawling HTML forms and analyzing responses.
